@@ -1,0 +1,2 @@
+self.SoundOff
+self.MusicOff
